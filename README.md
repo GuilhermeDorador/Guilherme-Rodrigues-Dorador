@@ -1,2 +1,17 @@
-# Guilherme-Rodrigues-Dorador
-Estudante de Análise de Desenvolvimento de Sistemas / Aspirante a Desenvolvedor BackEnd / Foco em Java e APIs REST / -> Meu LinkedIn: linkedin.com/in/guilherme-rodrigues-dorador-086a79378
+# Monitoramento de Rede com Java
+
+## -> Objetivo
+Desenvolver uma ferramenta simples para monitorar pacotes de rede em tempo real.
+
+## -> Tecnologias
+- Java
+- REST
+- 
+# -> Demonstração
+
+
+## -> Aprendizado
+Este projeto me ajudou a compreender a manipulação de pacotes em baixo nível e aplicar conceitos da displina de Redes.
+
+## -> Como executar
+Clone o projeto e execute java.monitor.ja
