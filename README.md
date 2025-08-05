@@ -14,4 +14,4 @@ Desenvolver uma ferramenta simples para monitorar pacotes de rede em tempo real.
 Este projeto me ajudou a compreender a manipulação de pacotes em baixo nível e aplicar conceitos da displina de Redes.
 
 ## -> Como executar
-Clone o projeto e execute java.monitor.ja
+Clone o projeto e execute java.monitor.jdk
