@@ -7,9 +7,6 @@ Desenvolver uma ferramenta simples para monitorar pacotes de rede em tempo real.
 - Java
 - APIs REST
 
-# -> Demonstração
-
-
 ## -> Aprendizado
 Este projeto me ajudou a compreender a manipulação de pacotes em baixo nível e aplicar conceitos da displina de Redes.
 
