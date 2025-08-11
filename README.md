@@ -1,14 +1,23 @@
-# Monitoramento de Rede com Java
+# Sistema de Controle de Estoque
 
-## -> Objetivo
-Desenvolver uma ferramenta simples para monitorar pacotes de rede em tempo real.
+## 🎯 Objetivo
+Desenvolver uma aplicação desktop para controle de estoque, permitindo cadastro, atualização, exclusão e consulta de produtos.
 
-## -> Tecnologias
+## 🛠️ Tecnologias Utilizadas
 - Java
-- APIs REST
+- MySQL
+- JDBC
 
-## -> Aprendizado
-Este projeto me ajudou a compreender a manipulação de pacotes em baixo nível e aplicar conceitos da displina de Redes.
+## 📋 Funcionalidades
+- Cadastro de produtos
+- Edição de informações
+- Consulta com filtros
+- Exclusão de registros
 
-## -> Como executar
-Clone o projeto e execute java.monitor.jdk
+## 📎 Como Executar
+1. Clonar o repositório
+2. Configurar o banco de dados MySQL conforme script `db.sql`
+3. Executar a aplicação pelo arquivo `Main.java`
+
+## 📌 Fonte de Inspiração
+Baseado em exemplos de código open source do GitHub, adaptados para fins acadêmicos.
