@@ -1,23 +1,16 @@
-# Sistema de Controle de Estoque
+# Sistema de Gestão de Eventos
 
-## 🎯 Objetivo
-Desenvolver uma aplicação desktop para controle de estoque, permitindo cadastro, atualização, exclusão e consulta de produtos.
+## Objetivo  
+Criar uma aplicação web para facilitar o gerenciamento de eventos acadêmicos.
 
-## 🛠️ Tecnologias Utilizadas
-- Java
-- MySQL
-- JDBC
+## Tecnologias utilizadas  
+- React  
+- Node.js  
+- Express  
+- MongoDB  
 
-## 📋 Funcionalidades
-- Cadastro de produtos
-- Edição de informações
-- Consulta com filtros
-- Exclusão de registros
+## Descrição  
+Este projeto permite cadastrar, editar e visualizar eventos, proporcionando melhor organização para os participantes e organizadores.
 
-## 📎 Como Executar
-1. Clonar o repositório
-2. Configurar o banco de dados MySQL conforme script `db.sql`
-3. Executar a aplicação pelo arquivo `Main.java`
-
-## 📌 Fonte de Inspiração
-Baseado em exemplos de código open source do GitHub, adaptados para fins acadêmicos.
+## Status  
+Projeto acadêmico concluído e utilizado em eventos da universidade.
